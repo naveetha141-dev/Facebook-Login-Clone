@@ -1,4 +1,4 @@
-Faceboo Login Page Clone
+Facebook Login Page Clone
 
  A Simple Facebook Login page clone build
 
